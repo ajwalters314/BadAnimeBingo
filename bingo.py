@@ -30,7 +30,13 @@ bingoList = [
     "Video Game Interface",                                 # 25
     "Video Game Stats",                                     # 26
     "More than one \"Conquest\"\nappears in first episode", # 27
-    "Inexplicable Cat"                                      # 28
+    "Inexplicable Cat",                                     # 28
+    "Cat Girl",                                             # 29
+    "Chibi Time",                                           # 30
+    "Incest/pseudo incest",                                 # 31
+    "Pervert character",                                    # 32
+    "Horse asset used",                                     # 33
+    "So cool!"                                              # 34
     ]
 
 def BingoBoard():
